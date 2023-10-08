@@ -1,5 +1,11 @@
-# pythonkasairsederhana
+# Dekripsi pythonkasairsederhana
 Script Python kasir sederhana, Jam Live, Daftar menu dan diskon, dan uang pembeli
+### Tampilan Input
+![Tampilan Input menu](input.png)
+
+### Tampilan Output
+![Tampilan Input menu](output.png)
+
 
 ## My Website
 https://alfandy.tech
